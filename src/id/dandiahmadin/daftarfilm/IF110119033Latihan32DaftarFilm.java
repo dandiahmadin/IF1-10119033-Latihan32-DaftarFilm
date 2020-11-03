@@ -11,7 +11,7 @@ package id.dandiahmadin.daftarfilm;
  * NAMA     : Dandi Ahmadin
  * KELAS    : IF-1
  * NIM      : 10119033
- * Deskripsi Program : Program ini berisi daftar film dengan pendekatan objek
+ * Deskripsi Program : Program ini berisi daftar film dengan konsep pendekatan berbasis objek
  */
 public class IF110119033Latihan32DaftarFilm {
     public static void main(String[] args) {
